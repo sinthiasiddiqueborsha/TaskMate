@@ -1,0 +1,66 @@
+============================================================
+           AI USAGE DECLARATION
+============================================================
+
+Name: Sinthia Siddique Borsha
+Student ID: 22301041
+Assignment: Milestone1
+Date: 16/11/2026
+
+------------------------------------------------------------
+1. AI TOOLS USED (check all that apply)
+------------------------------------------------------------
+[ ] ChatGPT
+[ ] Google Gemini
+[ ] Claude
+
+
+------------------------------------------------------------
+2. PURPOSE OF AI USE (check all that apply)
+------------------------------------------------------------
+[ ] Learning/understanding concepts
+[ ] Design/styling ideas
+[ ] Image generation
+
+
+------------------------------------------------------------
+3. DESCRIPTION OF AI USE
+------------------------------------------------------------
+I used ChatGPT, Google Gemini, and Claude as supporting tools
+while preparing the Attendance Management App wireframes and
+database schema. They helped me consider suitable screen
+arrangements, user navigation, app functions, database fields,
+and the connections between database entities. I compared the
+ideas provided by the tools and used relevant suggestions to
+refine the project materials. I remain responsible for the
+final work and for explaining the decisions made in it.
+
+
+------------------------------------------------------------
+4. AI-ASSISTED SECTIONS
+------------------------------------------------------------
+List specific files/sections where AI helped significantly:
+
+File: task_app_wireframes.pdf
+Section: Screen design, page layouts, and application navigation
+
+File: task_app_schema.pdf
+Section: Database tables, attributes, keys, and relationships
+
+File: ______________________________
+Section: ____________________________
+
+
+------------------------------------------------------------
+5. DECLARATION
+------------------------------------------------------------
+I declare that:
+- This disclosure is complete and accurate
+- I understand all code in my submission
+- I can explain and modify my work if asked
+- I take full responsibility for my submission
+
+Signature: Borsha
+Date: 16/11/2026
+
+============================================================
